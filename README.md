@@ -14,6 +14,8 @@ Logiciel de moélisation : [Vivado 2020.1](https://www.xilinx.com/support/downlo
 
 École : Polytechnique Montréal
 
+
+## Représentation
 Circuit de l'additionneur à 4 bits.
 ![alt text](https://github.com/TritzA/AdditionsSoustractions4bits/blob/master/modele4bits.PNG)
 
