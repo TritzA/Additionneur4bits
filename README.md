@@ -17,7 +17,9 @@ Logiciel de moélisation : [Vivado 2020.1](https://www.xilinx.com/support/downlo
 
 ## Représentation
 Circuit de l'additionneur à 4 bits.
+
 ![alt text](https://github.com/TritzA/AdditionsSoustractions4bits/blob/master/modele4bits.PNG)
 
 Test de l'additionneur à 1 bit.
+
 ![alt text](https://github.com/TritzA/AdditionsSoustractions4bits/blob/master/tests1bit.PNG)
