@@ -1,4 +1,4 @@
-# AdditionsSoustractions4bits
+# Additionneur4bits
 Laboratoire : 1 
 
 Cours : INF1500 Logique des systèmes numériques
