@@ -24,6 +24,10 @@ Circuit de l'additionneur à 4 bits.
 
 ![alt text](https://github.com/TritzA/AdditionsSoustractions4bits/blob/master/modele4bits.PNG)
 
+Test exhaustif de l'additionneur à 4 bits.
+
+![alt text](https://github.com/TritzA/Additionneur4bits/blob/master/exhaustif.PNG)
+
 Test de l'additionneur à 4 bits. Avec a = 0x0.
 
 ![alt text](https://github.com/TritzA/Additionneur4bits/blob/master/a_vaut_zero.PNG)
@@ -31,7 +35,3 @@ Test de l'additionneur à 4 bits. Avec a = 0x0.
 Test de l'additionneur à 4 bits. Avec a = 0xF.
 
 ![alt text](https://github.com/TritzA/Additionneur4bits/blob/master/a_vaut_f.PNG)
-
-Test exhaustif de l'additionneur à 4 bits.
-
-![alt text](https://github.com/TritzA/Additionneur4bits/blob/master/exhaustif.PNG)
