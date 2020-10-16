@@ -24,20 +24,20 @@ Logiciel de moélisation : [Vivado 2020.1](https://www.xilinx.com/support/downlo
 
 Test de l'additionneur à 1 bit.
 
-![alt text](https://github.com/TritzA/AdditionsSoustractions4bits/blob/master/tests1bit.PNG)
+![alt text](https://github.com/TritzA/AdditionsSoustractions4bits/blob/master/images/tests1bit.png)
 
 Circuit de l'additionneur à 4 bits.
 
-![alt text](https://github.com/TritzA/AdditionsSoustractions4bits/blob/master/modele4bits.PNG)
+![alt text](https://github.com/TritzA/AdditionsSoustractions4bits/blob/master/images/modele4bits.png)
 
 Test exhaustif de l'additionneur à 4 bits.
 
-![alt text](https://github.com/TritzA/Additionneur4bits/blob/master/exhaustif.PNG)
+![alt text](https://github.com/TritzA/Additionneur4bits/blob/master/images/exhaustif.png)
 
 Test de l'additionneur à 4 bits. Avec a = 0x0.
 
-![alt text](https://github.com/TritzA/Additionneur4bits/blob/master/a_vaut_zero.PNG)
+![alt text](https://github.com/TritzA/Additionneur4bits/blob/master/images/a_vaut_zero.png)
 
 Test de l'additionneur à 4 bits. Avec a = 0xF.
 
-![alt text](https://github.com/TritzA/Additionneur4bits/blob/master/a_vaut_f.PNG)
+![alt text](https://github.com/TritzA/Additionneur4bits/blob/master/images/a_vaut_f.png)
