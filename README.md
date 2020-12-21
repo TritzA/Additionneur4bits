@@ -11,7 +11,7 @@ Partenaire : James Brutus
 
 ## Objectifs
 
-Modéliser un additionneurs et soustracteur 1 bit, puis se servir de ce bloc pour en modéliser un autre à 4 bits.
+Modéliser et tester un additionneurs et soustracteur 1 bit, puis se servir de ce bloc pour en modéliser un autre à 4 bits.
 
 ## Utilisations
 
