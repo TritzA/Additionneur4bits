@@ -4,7 +4,9 @@ Circuit permettant d'effectuer des additions et des soustractions sur 4 bits.
 
 Laboratoire : 1/5
 
-Cours : INF1500 Logique des systèmes numériques
+Cours : [INF1500 Logique des systèmes numériques](https://www.polymtl.ca/programmes/cours/logique-des-systemes-numeriques)
+
+École : [Polytechnique Montréal](https://www.polymtl.ca)
 
 Partenaire : James Brutus
 
