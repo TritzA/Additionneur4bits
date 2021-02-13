@@ -1,4 +1,4 @@
-# Additionneur4bits
+# Additionneur-4-bits
 
 Circuit permettant d'effectuer des additions et des soustractions sur 4 bits.
 
